@@ -10,7 +10,7 @@ scanf("%i",&a);
 printf("Digite o segundo número: ");
 scanf("%i",&a);
 printf("%i , %i ,",a,b);
-for(i=1;i<=10;i++){
+for(i=1;i<=8;i++){
 	c = a+b;
 	a = b;
 	b = c;
